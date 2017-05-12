@@ -518,6 +518,14 @@ Time | Day 1                           | Day 2                                  
 [10-5D]: https://github.com/den-materials/php-wordpress "PHP Wordpress"
 [10-5E]: https://github.com/den-materials/wordpress-lab "PHP Wordpress Lab"
 
+#### Zeb's CS Classes:
+
+- [Merge Sort][13-A]
+- [TBD][13-B]
+
+[13-A]: https://github.com/den-materials/merge-sort "Merge Sort"
+[13-B]: # "TBD"
+
 Weekly Goals:
 
 - Create a basic Angular 2 app from scratch and from an Angular 1 base
