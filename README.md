@@ -521,10 +521,10 @@ Time | Day 1                           | Day 2                                  
 #### Zeb's CS Classes:
 
 - [Merge Sort][13-A]
-- [TBD][13-B]
+- [Networking (the Nerdy Kind)][13-B]
 
 [13-A]: https://github.com/den-materials/merge-sort "Merge Sort"
-[13-B]: # "TBD"
+[13-B]: https://github.com/den-materials/network-engineering "Network Engineering"
 
 Weekly Goals:
 
