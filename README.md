@@ -582,10 +582,10 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am** | Scrum | Scrum | Scrum | Scrum | Make-up Project Work 
-**11:00am** | Project 4 | Project 4 | **Mock Interviews** / Project Work | Project Work | **Mock Interviews** 
-**2:00pm** | Project 4 | Project 4 | **Mock Interviews** / Project Work | **Project Presentations** | **Practice Showcase** 
-**3:00pm** | Project 4 | Project Work | **Mock Interviews** / Project Work | **Project Presentations** | Final Survey, Certificates, and Recap (**Graduation**) 
+**9:00am** | MEMORIAL | Scrum | Scrum | Scrum | Make-up Project Work 
+**11:00am** | DAY | Project 4 | **Mock Interviews** / Project Work | Project Work | **Mock Interviews** 
+**2:00pm** | MEMORIAL | Project 4 | **Mock Interviews** / Project Work | **Project Presentations** | **Practice Showcase** 
+**3:00pm** | DAY | Project Work | **Mock Interviews** / Project Work | **Project Presentations** | Final Survey, Certificates, and Recap (**Graduation**) 
 **Training** | Project 4 | Project 4 | Project Work | Project Work | Happy Hour 
 
 Weekly Goals:
