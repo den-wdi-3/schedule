@@ -582,8 +582,8 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am** | MEMORIAL | Scrum | Scrum | Scrum | Make-up Project Work 
-**11:00am** | DAY | Project 4 | **Mock Interviews** / Project Work | Project Work | **Mock Interviews** 
+**9:00am** | MEMORIAL | Scrum | Scrum | Scrum | **Make-up Project Work** and **Mock Interviews**
+**11:00am** | DAY | Project 4 | **Mock Interviews** / Project Work | Project Work | [**Outcomes**][12-5B]
 **2:00pm** | MEMORIAL | Project 4 | **Mock Interviews** / Project Work | **Project Presentations** | **Practice Showcase** 
 **3:00pm** | DAY | Project Work | **Mock Interviews** / Project Work | **Project Presentations** | Final Survey, Certificates, and Recap (**Graduation**) 
 **Training** | Project 4 | Project 4 | Project Work | Project Work | Happy Hour 
@@ -593,6 +593,8 @@ Weekly Goals:
 - Fully formulate an idea for a full-stack project and execute it independently
 - Answer mock interview questions from instructors and outside developers
 - Demonstrate work to technical and non-technical observers
+
+[12-5B]: https://github.com/den-materials/outcomes-resources "Outcomes"
 
 >**Note:** Zeb will be available **by appointment** for mock interviews and portfolio help the Monday after graduation.  Stefan will be available **by appointment** for the remainder of the week after graduation.  More details to come toward the end of class.  Please set up a time with Zeb or Stefan by Direct Messaging them in Slack.
 
