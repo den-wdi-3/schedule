@@ -539,14 +539,14 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [**Second Pass** (Zeb)][11-1A] | [**IoT Primer** - *Vocab and Concepts* (Zeb)][11-2A] | Hackathon Wrap-up | Lightning Talks Prep | [**Mock Interviews** - **Technical** (Zeb)][11-5A]
+**9:00am Warm-up** | [**Second Pass** (Zeb)][11-1A] and Redux Redux | [**IoT Primer** - *Vocab and Concepts* (Zeb)][11-2A] | Hackathon Wrap-up | Lightning Talks Prep | [**Mock Interviews** - **Technical** (Zeb)][11-5A]
 **9:30am Module 1** | [**Cars** - *PHP CRUD* (Nick)][11-1B] | [**IoT Hello World Projects and Other Ideas** (Zeb)][11-2B] | **Hackathon Presentations** | Lightning Talks Prep | Project 4 Planning
 **11:00am Module 2** | [**Lab: Cars** - *PHP CRUD* (Nick)][11-1C] | **IoT Hackathon Kickoff** | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][11-3C] | Lightning Talks Prep | Approvals
 **1:30pm Module 3** | Freelance Project | IoT Hackathon | [**Outcomes** (Nick)][11-3D] | [**Lightning Talks**][11-4C] | Approvals
 **3:00pm Module 4** | Freelance Project | IoT Hackathon | Lightning Talks Prep | [**Project 4 Intro** (Zeb)][11-4D] | Project 4
 **Training** | Continue Outside Project | [**Pick a Lightning Talk Topic**][11-2F] | [**Lightning Talks Prep**][11-3E] | Project 4 | Project 4
 
-[11-1A]: https://github.com/den-materials/unit4_week1_secondpass "Second Pass"
+[11-1A]: https://github.com/den-wdi-2/unit4_week1_secondpass "Second Pass"
 [11-1B]: https://github.com/den-materials/php-crud "PHP CRUD"
 [11-1C]: https://github.com/den-materials/php-crud "PHP CRUD Lab"
 [11-1D]: # "Freelance Project"
