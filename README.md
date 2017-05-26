@@ -557,17 +557,17 @@ Time | Day 1                                 | Day 2                            
 [11-2C]: # "IoT Hackathon"
 [11-2D]: # "IoT Hackathon"
 [11-2E]: # "IoT Hackathon"
-[11-2F]: https://github.com/den-materials/lighting-talks "Lightning Talk Topic Selection"
+[11-2F]: https://github.com/den-wdi-3/lightning-talks "Lightning Talk Topic Selection"
 
 [11-3A]: # "IoT Hackathon"
 [11-3B]: # "Hackathon Presentations"
 [11-3C]: https://github.com/den-materials/troubleshooting-interview "Interview Prep"
 [11-3D]: https://github.com/den-materials/outcomes-resources "Outcomes"
-[11-3E]: https://github.com/den-materials/lighting-talks "Lightning Talk Prep"
+[11-3E]: https://github.com/den-wdi-3/lightning-talks "Lightning Talk Prep"
 
 [11-4A]: # "Lightning Talk Prep"
 [11-4B]: # "Lightning Talk Prep"
-[11-4C]: https://github.com/den-materials/lighting-talks "Lighting Talks"
+[11-4C]: https://github.com/den-wdi-3/lightning-talks "Lighting Talks"
 [11-4D]: https://github.com/den-materials/project-4 "Project 4"
 
 [11-5A]: https://github.com/den-materials/mock-technical-interview "Interview Prep"
